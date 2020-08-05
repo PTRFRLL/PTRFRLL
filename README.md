@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi 👋, I'm Peter
 
-<!--
-**PTRFRLL/PTRFRLL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter Badge](https://img.shields.io/badge/-PTRFRLL-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/PTRFRLL)](https://twitter.com/PTRFRLL)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pfiorella)](https://www.linkedin.com/in/pfiorella/)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌎 I'm a full-stack developer from Colorado.
+
+👉 I'm terrible about writing things about myself.
+
+❤️ I love learning new technologies
+
+☕️ Beer for ideas, coffee for execution
