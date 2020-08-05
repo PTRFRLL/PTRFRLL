@@ -2,7 +2,7 @@
 
 🌎 I'm a full-stack developer from Colorado.
 
-👉 I'm terrible about writing things about myself.
+👉 I'm terrible at writing things about myself.
 
 ❤️ I love learning new technologies
 
